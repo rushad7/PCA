@@ -20,7 +20,7 @@ try:
         
         numpy.random.seed(7)
         
-        dataframe = read_csv('posision.csv', usecols=[0], engine='python')
+        dataframe = read_csv('position_cycle.csv', usecols=[0], engine='python')
         dataset = dataframe.values
         dataset = dataset.astype('float64')
         

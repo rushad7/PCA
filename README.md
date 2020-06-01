@@ -1,3 +1,2 @@
-# Smart Blanket
-Uses Principal Component Analysis and multi target regression to improve 
-energy efficiency and lower power consumption of high power electric blankets 
+# Smart Blanket 
+Uses LSTM to improve the energy efficiency and lower power consumption of high power electric blankets
